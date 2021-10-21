@@ -21,7 +21,7 @@ nav{
     justify-content: space-around;
     align-items:center;
     color:red;
-    flex-wrap:wrap;
+    flex:wrap;
 }
 nav .logo{ 
     
