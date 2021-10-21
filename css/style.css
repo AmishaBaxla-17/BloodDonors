@@ -52,7 +52,7 @@ header .content{
 
     display:flex;
     flex-direction: column;
-    flex-wrap:wrap;
+    
     margin-top:200px;
     justify-content:center ;
     align-items: center;
