@@ -63,6 +63,7 @@ header .content button{
    border-radius:20px;
    background-color:#bd2d51;
    font-size:1.25em;
+   flex-wrap:wrap;
 }
 header .content button:hover{
     background-color: rgb(212, 50, 112);
