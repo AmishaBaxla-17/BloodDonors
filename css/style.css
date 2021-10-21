@@ -9,6 +9,7 @@ header{
     height:100vh;
     background-repeat: no-repeat;
     background-size:cover;
+    flexx-wrap:wrap;
     
   /*  opacity:0.8 ;*/
 }
